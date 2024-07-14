@@ -9,12 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center"> Welcome you to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
-	We are best in the field and this training would be worth it.
-	Class26 will run from October 2, 2023.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+<h1 align="center"> <!-- sophy is making me breakfast.</h1> -->
+<h2 align="center"> so far she has been a good girl.
+	i dont know if i should eat the breakfast first or eat her ...hahahah. 
+	Sophy what do you want?</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
