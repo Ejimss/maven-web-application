@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center"> <!-- Ejimchinedu is making me breakfast.</h1> -->
-<h2 align="center"> sophy is making me breakfast.
+<h2 align="center"> Ejimchinedu is making me breakfast.
 	so far she has been a good girl.
 	i dont know if i should eat the breakfast first or eat her ...hahahah. 
 	Sophy what do you want?</h2>
